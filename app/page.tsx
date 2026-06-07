@@ -156,7 +156,7 @@ export default function Home() {
           <p className="text-gray-400 mb-8">
             Looking for a Full Stack Developer?
           </p>
- fgh
+
           <button className="bg-blue-600 px-8 py-4 rounded-lg">
             Contact Me
           </button>
